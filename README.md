@@ -7,6 +7,6 @@ Low-Density Parity-Check code implementation (College Project Rearrange)
 
 ## More detail
 
-* Essay : [LDPC](essay/LDPC1.pdf)
-* [Code overview](code overview.pdf)
+* Essay : [LDPC](reports/LDPC1.pdf)
+* [Code overview](reports/code_overview.pdf)
 
